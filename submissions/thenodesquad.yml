@@ -1,0 +1,28 @@
+team_name: "The Node Squad"
+slug: "thenodesquad"
+
+# Everyone on the team, 1 to 6 people.
+members:
+  - name: "Nihar Sanda"
+    github: "koolgax99"
+  - name: "Pranali Chipkar"
+    github: "PranaliChipkar"
+  - name: "Udayini Vedantham"
+    github: "udayini03"
+  - name: "Ratnesh Kherudkar"
+    github: "r4tnx"
+
+# Public GitHub repo with your code, e.g. https://github.com/you/project
+repo: "https://github.com/koolgax99/prism-glasswing-hack/"
+
+# One or two sentences, 280 characters max. What it does and for whom.
+description: "Prism is a knowledge aggregation platform for FDA submissions. Each describes one trial four ways: spec, code, guide and data, by different teams, and they drift apart. It maps them onto CDISC knowledge graphs and flags every disagreement with evidence from both sides."
+
+# Who inside a company would use this.
+customer: "Biotech Pharma - Regulatory Affairs Team"
+
+# Optional. Where a judge can try it.
+live_url: "https://149.165.152.54:3001"
+
+# "none" if you started from scratch. Otherwise, what you brought in from before the weekend.
+prior_work: "none"
