@@ -22,7 +22,7 @@ description: "Prism is a knowledge aggregation platform for FDA submissions. Eac
 customer: "Biotech Pharma - Regulatory Affairs Team"
 
 # Optional. Where a judge can try it.
-live_url: "N/A"
+live_url: "https://149.165.152.54:3001"
 
 # "none" if you started from scratch. Otherwise, what you brought in from before the weekend.
 prior_work: "none"
